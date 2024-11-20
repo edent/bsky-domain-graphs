@@ -1,6 +1,8 @@
 # An Interactive DAG of Domain Names used as BlueSky Handles
 
-<img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i6misxex577k4q6o7gloen4s/bafkreibp3qhj3vym52kxbihn546w3nssxej2yyicejisv4aq3rlgqxwsqq@jpeg" width="512" alt="A directed acyclic graph. It looks like a constellation of stars">
+<a href="https://edent.github.io/bsky-domain-graphs/view.html"><img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i6misxex577k4q6o7gloen4s/bafkreibp3qhj3vym52kxbihn546w3nssxej2yyicejisv4aq3rlgqxwsqq@jpeg" width="512" alt="A directed acyclic graph. It looks like a constellation of stars"></a>
+
+[Play with the demo](https://edent.github.io/bsky-domain-graphs/view.html)
 
 ## Instructions
 
