@@ -1,8 +1,8 @@
-# A DAG of Domain Names found in BlueSky Handles
+# An Interactive DAG of Domain Names used as BlueSky Handles
 
 <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:i6misxex577k4q6o7gloen4s/bafkreibp3qhj3vym52kxbihn546w3nssxej2yyicejisv4aq3rlgqxwsqq@jpeg" width="512" alt="A directed acyclic graph. It looks like a constellation of stars">
 
-Instructions:
+## Instructions
 
 1. Run `python get-domains.py`
     * Leave it running for however long you like.
