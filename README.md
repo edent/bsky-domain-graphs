@@ -17,3 +17,15 @@
 ##  Requirements
 
 `pip install atproto`
+
+## Background
+
+As part of my [MSc Dissertation](https://shkspr.mobi/blog/2023/04/msc-dissertation-exploring-the-visualisation-of-hierarchical-cybersecurity-data-within-the-metaverse/) I investigated using interactive 3D Directed Acyclic Graphs to explore domain name data.
+
+BlueSky users can set their usernames to be their verified domain name.
+
+So I've applied the same techniques to visualise how BSky's usernames are distributed.
+
+On 2024-11-20, I spent several hours sampling their AT Protocol Firehose. I gathered over 2,000 unique domain usernames and processed them into this graph.
+
+I don't claim this to be a fully representative sample - but I couldn't be bothered running the process for several weeks. So you get what you get.
