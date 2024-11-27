@@ -30,9 +30,9 @@ tld_data["Label"] = tld_data.apply(
 )
 
 #   Plot the treeMap
-fig = px.treemap(tld_data, path=["Label"], values="Count", title="TLD Distribution of 17,000 Domains Used as BlueSky Handles")
+fig = px.treemap(tld_data, path=["Label"], values="Count", title="TLD Distribution of 22,400 Domains Used as BlueSky Handles")
 fig.update_traces(textinfo="label")
 fig.show()
 
 #   Optional - save as HTML file
-# fig.write_html("treemap.html")
+#fig.write_html("treemap.html")

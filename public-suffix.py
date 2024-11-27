@@ -52,4 +52,4 @@ fig = px.treemap(
 fig.update_traces(textinfo="label+value", branchvalues="total")  # Properly display standalone TLDs
 fig.show()
 #   Optional - save as HTML file
-fig.write_html("public-suffix.html")
+#fig.write_html("public-suffix.html")
